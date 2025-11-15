@@ -1155,6 +1155,13 @@ blockquote.headmaster-quote {
 
 /* Mobile view */
 @media (max-width: 600px) {
+    .hero-content,
+    .about-content,
+    .headmaster-card {
+        display: flex;
+        flex-direction: column;
+    }
+
   .top-bar-content {
     flex-direction: column;
     text-align: center;
