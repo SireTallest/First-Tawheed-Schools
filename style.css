@@ -1005,7 +1005,7 @@ blockquote.headmaster-quote {
 
 .nav-links a:hover,
 .mobile-nav a:hover {
-  color: rgba(122,79,10,0.997);
+  color: #fff;
 }
 
 /* Active section indicator (when user scrolls) */
