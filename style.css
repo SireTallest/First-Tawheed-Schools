@@ -131,13 +131,13 @@ ul {
 .logo-icon {
     width: 48px;
     height: 48px;
-    background: linear-gradient(to bottom right, brown, rgba(122, 79, 10, 0.997) );
+    background: #fff;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 1.5rem;
-    color: white;
+    color: #fff;
 }
 
 .logo-text h1 {
