@@ -753,7 +753,7 @@ blockquote.headmaster-quote {
 }
 
 .cta-box {
-    background-color: #fff;
+    background-color: #f8f9fa;
     color: rgba(122, 79, 10, 0.997);
     text-align: center;
     padding: 2rem;
@@ -773,7 +773,7 @@ blockquote.headmaster-quote {
 }
 .cta-box a{
     background-color: rgba(122, 79, 10, 0.997);
-    color: black;
+    color: #fff;
 }
 .cta-box a:hover{
     background-color: #000;
