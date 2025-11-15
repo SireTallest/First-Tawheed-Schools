@@ -544,6 +544,10 @@ blockquote.headmaster-quote {
 }
 
 /* Teachers Section */
+.teacher-section {
+    padding: 5rem 1rem;
+}
+
 .teachers-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
