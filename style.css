@@ -1189,6 +1189,7 @@ blockquote.headmaster-quote {
   background: rgba(122,79,10,0.997);
   color: #fff;
   border: none;
+  border-radius: 4px;
   padding: 0.75rem
 }
 
