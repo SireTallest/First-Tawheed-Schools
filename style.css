@@ -646,7 +646,19 @@ blockquote.headmaster-quote {
 }
 
 /* Teaching Methods Section */
+.philosophy-section {
+    padding: 5rem 1rem;
+    background-color: #fff;
+}
+
+.philosophy-section .container .section-header > h2,
+.philosophy-section .container .section-header > p
+ {
+    color: #212121;
+}
+
 .teaching-intro {
+    padding: 3rem 0;
     display: grid;
     gap: 3rem;
     align-items: center;
