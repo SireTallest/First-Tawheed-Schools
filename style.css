@@ -68,7 +68,6 @@ ul {
 
 .section-header p {
     font-size: 1.25rem;
-    color: #6b7280;
     max-width: 48rem;
     margin: 0 auto;
 }
@@ -436,7 +435,11 @@ ul {
 /* About Section */
 .about {
     padding: 5rem 1rem;
-    background-color: #ffffff;
+    background-color: #fff;
+}
+
+.about .container .section-header p {
+    color: #212121;
 }
 
 .about-content {
